@@ -13,7 +13,7 @@ website:
         file: about.qmd
     right:
       - icon: github
-        href: https://kdayeon.github.io/suji_blog
+        href: https://joppuy.github.io/suji_blog
       - icon: twitter
         
 
